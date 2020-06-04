@@ -1,0 +1,53 @@
+
+.container{
+  position: absolute;
+
+
+}
+
+.container2{
+  position: absolute;
+  top: 200px;
+
+
+}
+
+.prodotti{
+  display: inline-block;
+  position: relative;
+
+}
+
+.prodotti:hover{
+  background-color: grey;
+  background-image: url();
+}
+
+.sconto1{
+  display: inline-block;
+  color: black;
+  background-color: green;
+  position: absolute;
+  right:0;
+  font-size: 15px;
+
+}
+.sconto2{
+  display: inline-block;
+  color: black;
+  background-color: red;
+  position: absolute;
+  right:0;
+  font-size: 15px;
+
+
+}
+.sconto3{
+  display: inline-block;
+  color: black;
+  background-color: green;
+  position: absolute;
+  right:0;
+  font-size: 15px;
+
+}
